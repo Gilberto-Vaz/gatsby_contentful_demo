@@ -7,6 +7,7 @@ const Contact = () => {
     return (
         <Layout>
             <SEO title= "Contact" />
+            <h1>Contact</h1>
             <p>This page is the contact page.</p>
             <Link to="/">Go Home</Link>
         </Layout>
